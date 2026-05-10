@@ -11,6 +11,7 @@
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [thefeed-android-v0.17.5-arm64-v8a](./thefeed-android-v0.17.5-arm64-v8a)
 - [thefeed-client-v0.17](./thefeed-client-v0.17)
+- [thefeed-server-windows-amd64](./thefeed-server-windows-amd64)
 
 ---
 
