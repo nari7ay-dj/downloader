@@ -10,6 +10,7 @@
 - [ck-client-darwin-arm64-v2.12](./ck-client-darwin-arm64-v2.12)
 - [roundsync_v2.6.0-oss-arm64-v8a-release](./roundsync_v2.6.0-oss-arm64-v8a-release)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
+- [tg-ws-proxy-android](./tg-ws-proxy-android)
 - [thefeed-android-v0.17.5-arm64-v8a](./thefeed-android-v0.17.5-arm64-v8a)
 - [thefeed-client-v0.17](./thefeed-client-v0.17)
 - [thefeed-server-windows-amd64](./thefeed-server-windows-amd64)
